@@ -31,6 +31,9 @@ Highest Revenue Pizza: Thai Chicken Pizza
 
 Customer Preference: ~51% Non-Veg vs. ~49% Veg
 
+Peak Ordering Hours: Around 12 PM – 1 PM & 6 PM – 8 PM
+
+Busiest Days: Friday & Saturday
 
 🚀 Features
 
@@ -50,3 +53,4 @@ Data Source: Pizza Sales dataset from git-hub through Youtube
 Dashboard - https://github.com/Bodhisatta-1998/From-Orders-to-Insights-Pizza-Sales-Dashboard-in-Power-BI-/blob/main/Pizza-sales%20Dashboard.png
 
 
+#powerbi, #data-visualization, #business-intelligence, #sales-analysis, #dashboard, #data-analytics, #pizza-sales, #data-storytelling, #portfolio-project, #data-science
