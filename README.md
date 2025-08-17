@@ -50,5 +50,3 @@ Data Source: Pizza Sales dataset from git-hub through Youtube
 Dashboard - https://github.com/Bodhisatta-1998/From-Orders-to-Insights-Pizza-Sales-Dashboard-in-Power-BI-/blob/main/Pizza-sales%20Dashboard.png
 
 
-
-Busiest Days: Friday & Saturday
